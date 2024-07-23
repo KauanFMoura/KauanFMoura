@@ -18,6 +18,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-kauanfmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauanfmoura/)](https://www.linkedin.com/in/kauanfmoura/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauanfmoura/)](https://www.linkedin.com/in/kauanfmoura/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanmoura04082004@gmail.com)](mailto:kauanmoura04082004@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kauanFmoura?label=follow&style=social)](https://github.com/KauanFMoura)
